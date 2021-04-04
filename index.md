@@ -11,9 +11,7 @@ I'm an **Undergrad Student🎓 [@UCSD](https://www.ucsd.edu)** pursuing Computer
   <img width="687" height="458" src="https://lh3.googleusercontent.com/pw/ACtC-3emFWySOVBs5M86gzfOzxW2XuQ2M3uIR79etC34eNieV3zq5jbjQNxRBiL2KU1KrAHwzZSHirGzm78HKWBwA-5XE4Pn3sUOgEEKclEK4rO8CUGRF7l9t0DJoN87Y2Fqtp8RjrFhRaUAi_0lNBXUQw1lvA=w1375-h916-no">
 </p>
 
-<br/><br/>
-
-
+<br/>
 
 
 ## ⚡️ A Few Quick Facts
