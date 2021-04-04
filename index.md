@@ -45,9 +45,9 @@ I'm an **Undergrad Student🎓 [@UCSD](https://www.ucsd.edu)** pursuing Computer
 
 ### Just some extra md examples
 Todo:
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+1. [x] Finish my changes
+2. [ ] Push my commits to GitHub
+3. [ ] Open a pull request
 
 Some basic Git commands are:
 ```
